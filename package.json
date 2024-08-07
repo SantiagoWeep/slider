@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-basic-auth": "^1.2.1",
+    "express-session": "^1.18.0",
+    "path": "^0.12.7"
+  },
+  "name": "slider",
+  "version": "1.0.0",
+  "description": "protecion",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
